@@ -28,5 +28,22 @@ console.log(agee);
 const age=20;
 console.log(age);
 
-// age=10; Error
-// console.log(age);
+age=10; Error
+console.log(age);
+
+let height=4.9;
+
+if(height >=5 ){
+    console.log("Nerd");
+}
+else{
+    console.log("Bauna");
+}
+
+let name="Krishna";
+
+// Ternary Operator 
+
+let result= (name=="Krishna")? "Same" : "Not same";
+
+console.log(result);
