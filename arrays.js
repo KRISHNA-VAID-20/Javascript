@@ -31,3 +31,9 @@ console.log(cars);
 cars.unshift('Krishna car','varun car'); // can add multiple values 
 
 console.log(cars);
+
+// looping through Arrays 
+
+for (let i=0;i< cars.length;i++){
+    console.log(`${i}- ${cars[i]}`);
+}
