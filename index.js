@@ -28,7 +28,7 @@ console.log(agee);
 const age=20;
 console.log(age);
 
-age=10; Error
+// age=10; Error
 console.log(age);
 
 let height=4.9;
